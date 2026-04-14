@@ -3,6 +3,7 @@
 A RP2040 dev boad for tinkering uses. <br>
 <img width="254" height="533" alt="image" src="https://github.com/user-attachments/assets/da469512-b210-4d69-a62d-8110636ade11" /> <br>
 
+https://stasis.hackclub.com/starter-projects/devboard
 
 Features:
 - 12Mb Quad-SPI Flash Memory
